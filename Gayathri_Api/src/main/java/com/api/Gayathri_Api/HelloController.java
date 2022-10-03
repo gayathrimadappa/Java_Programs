@@ -1,4 +1,4 @@
-package com.api.restapi;
+package com.api.Gayathri_Api;
 
 //import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

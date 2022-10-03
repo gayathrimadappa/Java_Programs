@@ -1,4 +1,4 @@
-package com.api.restapi;
+package com.api.Gayathri_Api;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.api.restapi.entity.User;
+import com.api.Gayathri_Api.entity.User;
 
 @RestController
 public class UserController {

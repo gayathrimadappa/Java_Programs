@@ -1,12 +1,11 @@
-package com.api.restapi.entity;
+package com.api.Gayathri_Api.entity;
 
 import javax.persistence.*;
 
 @Entity 
 public class User {
 	
-	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	
 	private Long id;
 	
 	@Column(name = "user_name")  
@@ -76,3 +75,4 @@ public class User {
 
 }
 	
+
